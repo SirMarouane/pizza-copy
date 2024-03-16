@@ -1,0 +1,51 @@
+[
+    {
+      "nom": "Margherita",
+      "prix": 12.00,
+      "ingredients": ["Mozzarella", "Tomates", "Basilic"],
+      "type": "vegetarienne"
+    },
+    {
+      "nom": "Regina",
+      "prix": 14.00,
+      "ingredients": ["Mozzarella", "Tomates", "Jambon", "Champignons"],
+      "type": "carnivore"
+    },
+    {
+      "nom": "Quattro Stagioni",
+      "prix": 16.00,
+      "ingredients": ["Mozzarella", "Tomates", "Jambon", "Champignons", "Artichauts", "Poivrons"],
+      "type": "carnivore"
+    },
+    {
+      "nom": "Calzone",
+      "prix": 15.00,
+      "ingredients": ["Mozzarella", "Tomates", "Jambon", "Champignons", "Ricotta", "Œuf"],
+      "type": "carnivore"
+    },
+    {
+      "nom": "Diavola",
+      "prix": 13.00,
+      "ingredients": ["Mozzarella", "Tomates", "Salami piquant", "Piments"],
+      "type": "carnivore"
+    },
+    {
+      "nom": "Pescatore",
+      "prix": 17.00,
+      "ingredients": ["Mozzarella", "Tomates", "Crevettes", "Moules", "Calmars", "Saumon"],
+      "type": "fruits_de_mer"
+    },
+    {
+      "nom": "Vegetariana",
+      "prix": 15.00,
+      "ingredients": ["Mozzarella", "Tomates", "Légumes de saison (courgettes, aubergines, poivrons)"],
+      "type": "vegetarienne"
+    },
+    {
+      "nom": "Bianca",
+      "prix": 11.00,
+      "ingredients": ["Mozzarella", "Crème fraîche", "Oignons", "Épinards"],
+      "type": "vegetarienne"
+    }
+  ]
+  
